@@ -9,5 +9,5 @@ release date dropping soon
 4. Navigate to Import/Export.
 5. Select `Obtainium Import` and open `obtainium-emulation-pack-vX.X.X.json`
 6. You should see packages imported to your obtainium.
-7. new features Obtainium Emulation Pack set up guides for the emulators
+7. new features Obtainium Emulation Pack set up guides for the emulators in the about section
    
