@@ -1,4 +1,3 @@
-
-                release date dropping soon
+release date dropping soon
                 
                  Obtainium Emulation Pack
